@@ -1,2 +1,3 @@
-# simple-demo
-Hello World GitHub
+# simple Example Repository
+
+This is just an example
